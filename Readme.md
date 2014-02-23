@@ -1,6 +1,6 @@
 #What's Calm?
 
-Calm is a .NET library developed in C# that allows you to build (SharePoint SPQuery) queries cleaner than if you do it by hand. Calm makes it easier for SharePoint developers to build (SPQuery) queries in a more expressive and type-safe manner avoiding the need of having to concatenate strings to get it done.
+Calm is a .NET library developed in C# that allows you to build SharePoint queries (SPQuery) cleaner than if you do it by hand. Calm makes it easier for SharePoint developers to build queries in a more expressive-type-safe manner.
 
 ##Using Calm
 
